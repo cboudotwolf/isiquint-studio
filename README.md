@@ -58,3 +58,4 @@ src/
 - Sprint 2: PDF-Export, LilyPond, UI-Redesign, Logo ✅
 - Sprint 3: Copy/Paste, Drag-to-Reorder, Responsive, Playback, Tests ✅
 - Sprint 4: Sharing, Versioning, MuseScore/MusicXML/MIDI-Import/Export, Dashboard ✅
+# isiquint-studio
